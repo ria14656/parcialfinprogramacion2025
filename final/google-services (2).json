@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153341406241",
+    "project_id": "peliculasapp-c2384",
+    "storage_bucket": "peliculasapp-c2384.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153341406241:android:56606b7d6b83cbd0018760",
+        "android_client_info": {
+          "package_name": "com.example.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliFX5S2I3bn4iSrnIAf26YjXIjP6Uo1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
